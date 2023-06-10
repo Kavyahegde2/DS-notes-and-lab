@@ -1,1 +1,1 @@
-This contains the notes of Data stuctures of 3rd sem Engineering (VTU) and also its lab Programs. 
+This contains the written important questions and answers of Data stuctures- 3rd sem engineering (VTU) and also its lab Programs. 
